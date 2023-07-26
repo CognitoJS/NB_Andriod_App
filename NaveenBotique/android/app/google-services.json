@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292456442466",
+    "project_id": "naveenbotique",
+    "storage_bucket": "naveenbotique.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292456442466:android:753fac4e02de99e596bf3b",
+        "android_client_info": {
+          "package_name": "com.example.naveenbotique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292456442466-hekp3sh64vq3003b4p8it6rm2u0i58g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwAMmJaKbSMO3meyCUeOKfI6VZaVSCl4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292456442466-hekp3sh64vq3003b4p8it6rm2u0i58g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
